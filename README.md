@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Dathisha👋
 
-<!--
-**Dathisha/dathisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student  
+💻 Aspiring Machine Learning Engineer  
+📍 Tamil Nadu, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about Artificial Intelligence & Machine Learning  
+- Currently learning Python and ML algorithms  
+- Building real-world ML projects  
+- Interested in Data Analytics & AI Product Development  
+
+---
+
+## 🛠 Skills
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn (Learning)
+- Git & GitHub
+
+---
+
+## 📂 Projects
+🔹 Student Marks Prediction  
+🔹 House Price Prediction  
+🔹 Spam Email Classifier  
+
+
+
+---
+
+## 📫 Contact
+📧dathisha42@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/dathisha
